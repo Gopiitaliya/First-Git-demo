@@ -1,2 +1,3 @@
 # First-Git-demo
-This is my Git Repository
+This is my First Git Repository
+Author - Vidhi Italiya
